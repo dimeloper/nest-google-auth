@@ -6,7 +6,7 @@
 [travis-url]: https://travis-ci.org/nestjs/nest
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
-  
+
 ## Google Authentication with Nest
 
 A Google Authentication starter, built with [Nest](https://github.com/nestjs/nest).
@@ -16,6 +16,8 @@ A Google Authentication starter, built with [Nest](https://github.com/nestjs/nes
 ```bash
 $ yarn install
 ```
+
+Google Auth requires the clientID and clientSecret of a Google app, you can create one at the [Google Console](https://console.developers.google.com/).
 
 ## Running the app
 
@@ -55,4 +57,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## License
 
-  Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](LICENSE).

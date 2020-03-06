@@ -24,6 +24,7 @@
     "@nestjs/core": "^6.10.14",
     "@nestjs/passport": "^6.2.0",
     "@nestjs/platform-express": "^6.10.14",
+    "jsonwebtoken": "^8.5.1",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0",
     "reflect-metadata": "^0.1.13",
